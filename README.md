@@ -9,7 +9,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 ## Features
 
 - 📦 MongoDB, Express, React & Node [ MERN Stack ].
-- Socket.io & Quill.
+- Socket.io & Quill
 
 ## Getting Started
 
